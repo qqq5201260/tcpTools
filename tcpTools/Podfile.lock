@@ -1,0 +1,18 @@
+PODS:
+  - CocoaAsyncSocket (7.6.1)
+  - IQKeyboardManager (4.0.10)
+  - SVProgressHUD (1.1.3)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - IQKeyboardManager
+  - SVProgressHUD (~> 1.1.2)
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 7eadd3f59e1a6c84e2aefc93e9ff7b55156fe174
+  IQKeyboardManager: 593ee99b88381f4b9ccb22bd680f22606351bd41
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+
+PODFILE CHECKSUM: a243267c3a3204cfe62bad675f94bc3b9bd8167a
+
+COCOAPODS: 1.2.0

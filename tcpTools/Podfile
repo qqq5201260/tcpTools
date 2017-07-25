@@ -1,0 +1,9 @@
+platform :ios,’8.0’
+
+target 'tcpTest’ do
+
+
+    pod 'SVProgressHUD', '~> 1.1.2'
+    pod 'CocoaAsyncSocket'
+    pod 'IQKeyboardManager'
+end
